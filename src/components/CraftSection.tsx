@@ -75,7 +75,7 @@ const CraftSection = () => {
 
                                 {/* Button */}
                                 <button className="shrink-0 bg-white px-8 py-3 text-sm font-bold uppercase tracking-wider text-[#1a0f0a] transition-all hover:bg-[#eecb45]">
-                                    Read More
+                                    Order Now
                                 </button>
                             </div>
                         </div>

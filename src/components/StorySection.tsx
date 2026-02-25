@@ -3,9 +3,9 @@ import Image from "next/image";
 
 const StorySection = () => {
     return (
-        <section className="relative w-full h-[800px] overflow-hidden">
+        <section className="relative w-full h-[800px]">
             {/* Background Image Placeholder */}
-            <div className="absolute inset-0 bg-neutral-800">
+            <div className="absolute inset-0 bg-neutral-800 overflow-hidden">
                 {/* We'll use a gray placeholder or later replace with a real image */}
                 <Image
                     src="/images/IMG_6108.jpg"
@@ -42,8 +42,8 @@ const StorySection = () => {
                 </div>
 
                 {/* Logo Image Overlay */}
-                <div className="absolute bottom-60 left-6 z-20 md:left-20">
-                    <div className="relative h-96 w-96 -rotate-6 transform">
+                <div className="hidden absolute z-20 md:block md:bottom-60 md:left-20 md:top-auto md:translate-x-0 pointer-events-none">
+                    <div className="relative h-64 w-64 -rotate-6 transform md:h-96 md:w-96">
                         <Image
                             src="/images/sohees_white_txt.png"
                             alt="Sohee's Kitchen Logo"
