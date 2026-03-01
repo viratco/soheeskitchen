@@ -9,7 +9,7 @@ const TickerSection = () => {
                 <div className="ticker-content">
                     {/* Repeat the text multiple times for seamless loop */}
                     {[...Array(20)].map((_, index) => (
-                        <span key={index} className="ticker-item text-9xl font-bold uppercase text-[#d25d1e] font-[family-name:var(--font-oswald)]">
+                        <span key={index} className="ticker-item text-5xl md:text-9xl font-bold uppercase text-[#d25d1e] font-[family-name:var(--font-oswald)]">
                             {tickerText}
                         </span>
                     ))}

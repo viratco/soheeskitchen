@@ -40,15 +40,15 @@ const ServiceSection = () => {
     ];
 
     return (
-        <section className="w-full bg-white py-24">
-            <div className="mx-auto max-w-7xl px-6">
+        <section className="w-full bg-white py-16 md:py-24">
+            <div className="mx-auto max-w-7xl px-4 md:px-6">
                 <div className="grid grid-cols-1 divide-y divide-[#e5e5e5] border-[#e5e5e5] md:grid-cols-2 md:divide-x md:divide-y-0 lg:grid-cols-4 lg:divide-x">
                     {services.map((service, index) => (
-                        <div key={index} className="flex flex-col items-start p-8 first:pl-0 last:pr-0">
+                        <div key={index} className="flex flex-col items-start p-8">
                             <div className="mb-6">
                                 {service.icon}
                             </div>
-                            <h3 className="mb-4 whitespace-pre-line text-2xl font-bold uppercase leading-tight tracking-tight text-[#2d1b11] font-[family-name:var(--font-oswald)]">
+                            <h3 className="mb-4 whitespace-pre-line text-xl md:text-2xl font-bold uppercase leading-tight tracking-tight text-[#2d1b11] font-[family-name:var(--font-oswald)]">
                                 {service.title}
                             </h3>
                             <p className="text-sm leading-relaxed text-[#1a1a1a]/70">

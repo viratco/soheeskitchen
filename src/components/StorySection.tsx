@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const StorySection = () => {
     return (
-        <section className="relative w-full h-[800px]">
+        <section className="relative w-full min-h-[600px] md:h-[800px]">
             {/* Background Image Placeholder */}
             <div className="absolute inset-0 bg-neutral-800 overflow-hidden">
                 {/* We'll use a gray placeholder or later replace with a real image */}
@@ -15,15 +15,15 @@ const StorySection = () => {
                 />
             </div>
 
-            <div className="relative mx-auto h-full max-w-7xl px-6">
-                <div className="flex h-full flex-col justify-center md:flex-row md:items-center">
+            <div className="relative mx-auto h-full max-w-7xl px-4 md:px-6">
+                <div className="flex h-full flex-col justify-center py-16 md:py-0 md:flex-row md:items-center">
 
                     {/* Spacer for Left Side (where "FRIENDS" will be later, positioned absolute) */}
                     <div className="hidden w-1/2 md:block"></div>
 
                     {/* Right Content Box */}
-                    <div className="relative z-10 w-full bg-[#fcfbf9] p-12 shadow-2xl md:w-1/2 md:-ml-20 md:p-16">
-                        <h2 className="mb-6 text-5xl font-black uppercase leading-[0.9] text-[#2d1b11] font-[family-name:var(--font-oswald)]">
+                    <div className="relative z-10 w-full bg-[#fcfbf9] p-8 md:p-12 shadow-2xl md:w-1/2 md:-ml-20 lg:p-16">
+                        <h2 className="mb-4 md:mb-6 text-3xl md:text-5xl font-black uppercase leading-[0.9] text-[#2d1b11] font-[family-name:var(--font-oswald)]">
                             Discover The
                             <br />
                             Story <span className="text-[#ecd449]">Behind</span>
@@ -31,7 +31,7 @@ const StorySection = () => {
                             <span className="text-[#ecd449]">Our Food</span>
                         </h2>
 
-                        <p className="mb-8 text-lg leading-relaxed text-[#1a1a1a]/70">
+                        <p className="mb-6 md:mb-8 text-base md:text-lg leading-relaxed text-[#1a1a1a]/70">
                             Food is more than sustenance. It is where friends gather, flavors shine, and our love for Korean cuisine comes alive. Celebrate community and cooking.
                         </p>
 

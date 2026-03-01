@@ -11,7 +11,7 @@ const Navbar = () => {
 
     return (
         <nav className="absolute top-0 z-50 w-full" style={{ background: 'var(--background)' }}>
-            <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6">
+            <div className="mx-auto flex min-h-[5rem] py-4 md:py-0 md:h-20 max-w-7xl items-center justify-between px-6">
                 {/* Logo */}
                 <div className="flex items-center gap-2">
                     <span className="text-3xl font-[family-name:var(--font-anton)] uppercase tracking-tighter text-[#1a1a1a]">
@@ -40,12 +40,17 @@ const Navbar = () => {
                         </svg>
                         <span className="text-lg font-bold text-[#1a1a1a]">91+ 9711722273</span>
                     </div>
-                    <button
-                        onClick={scrollToContact}
-                        className="rounded-sm bg-[#d25d1e] px-8 py-3 text-sm font-bold uppercase tracking-wider text-white transition-all hover:bg-[#b04a18] hover:shadow-lg active:scale-95"
-                    >
-                        Get in touch
-                    </button>
+                    <div className="flex flex-col items-center gap-1">
+                        <button
+                            onClick={scrollToContact}
+                            className="rounded-sm bg-[#d25d1e] px-8 py-3 text-sm font-bold uppercase tracking-wider text-white transition-all hover:bg-[#b04a18] hover:shadow-lg active:scale-95"
+                        >
+                            Get in touch
+                        </button>
+                        <span className="text-sm font-bold text-[#d25d1e] block md:hidden whitespace-nowrap">
+                            +91 9711722273
+                        </span>
+                    </div>
                 </div>
             </div>
         </nav>

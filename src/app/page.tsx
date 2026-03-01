@@ -12,7 +12,7 @@ import ContactSection from "@/components/ContactSection";
 export default function Home() {
   return (
     <>
-      <main className="flex min-h-screen w-full justify-center pt-[20vh] lg:pt-[32vh]">
+      <main className="flex min-h-[60vh] lg:min-h-screen w-full justify-center pt-[20vh] lg:pt-[32vh]">
         <div className="relative flex flex-col items-center px-4 md:px-0">
           {/* Subtitle Text */}
           <div className="relative lg:absolute lg:-top-18 lg:-left-35 mb-12 lg:mb-0 w-full lg:w-auto max-w-[600px] text-center lg:text-left z-20">
