@@ -27,9 +27,6 @@ const oswald = Oswald({
 export const metadata: Metadata = {
   title: "Sohee's Kitchen",
   description: "Authentic Korean cuisine in Greater Noida. Experience bold Korean flavors, cozy ambience, and warm hospitality at Sohee's Kitchen.",
-  icons: {
-    icon: "/favicon.png",
-  },
 };
 
 export default function RootLayout({
