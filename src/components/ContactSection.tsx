@@ -91,6 +91,18 @@ const ContactSection = () => {
 
                     </div>
                 </div>
+
+                {/* Footer Info */}
+                <div className="mt-16 border-t border-[#e5e5e5] pt-8 md:mt-24">
+                    <div className="flex flex-col items-center justify-center gap-4 text-center md:flex-row md:justify-between md:gap-0">
+                        <p className="text-sm font-bold uppercase tracking-widest text-[#2d1b11] font-[family-name:var(--font-oswald)]">
+                            A venture by <span className="text-[#d25d1e]">SIDHANT KAPOOR</span>
+                        </p>
+                        <p className="text-xs font-semibold tracking-wider text-[#1a1a1a]/40 uppercase">
+                            GST number - 09HIZPK7132P1ZO
+                        </p>
+                    </div>
+                </div>
             </div>
         </section>
     );
