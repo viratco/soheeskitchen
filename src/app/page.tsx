@@ -2,7 +2,6 @@ import Image from "next/image";
 import FeatureSection from "@/components/FeatureSection";
 import DiscoverSection from "@/components/DiscoverSection";
 import ServiceSection from "@/components/ServiceSection";
-import MenuSection from "@/components/MenuSection";
 import StorySection from "@/components/StorySection";
 import CraftSection from "@/components/CraftSection";
 import TickerSection from "@/components/TickerSection";
@@ -64,7 +63,6 @@ export default function Home() {
       <FeatureSection />
       <DiscoverSection />
       <ServiceSection />
-      <MenuSection />
       <StorySection />
       <CraftSection />
       <TickerSection />
