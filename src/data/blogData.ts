@@ -983,6 +983,444 @@ export const blogPosts: BlogPost[] = [
     ],
     menuItems: STANDARD_MENU_ITEMS,
     relatedSlugs: ["best-korean-restaurant-greater-noida", "top-korean-dishes-greater-noida"]
+  },
+
+  {
+    slug: "korean-spicy-noodles-ramyeon-greater-noida",
+    title: "Spicy Korean Noodles & Authentic Ramyeon in Greater Noida | Sohee's Kitchen",
+    metaDescription: "Craving authentic Korean spicy noodles and hot Ramyeon in Greater Noida? Savor steaming bowls cooked with kimchi, eggs, and rich broth at Sohee's Kitchen.",
+    category: "Food & Recipes",
+    publishedAt: "2026-08-30",
+    readTime: "5 min read",
+    author: {
+      name: "Chef Sohee",
+      role: "Head Chef & Founder",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1612927601601-6638404737ce?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Steaming hot bowl of authentic Korean Ramyeon spicy noodles with egg, scallions, and kimchi",
+    seoKeywords: [
+      "Korean noodles Greater Noida",
+      "Spicy Ramyeon Greater Noida",
+      "Authentic Korean ramen Noida",
+      "Korean spicy food Pari Chowk",
+      "Buldak style noodles Delhi NCR",
+      "Best noodles near Knowledge Park"
+    ],
+    keyTakeaways: [
+      "Authentic Korean Ramyeon is a beloved cultural obsession, celebrated for its springy noodles and fiery, umami broth.",
+      "Prepared the traditional Seoul way: fast-simmered in golden nickel-brass pots with scallions, poached egg, and house-made kimchi.",
+      "The ultimate comfort bowl for late evenings, monsoon showers, and study sessions near Knowledge Park.",
+      "Pair with crispy Yam Yam Chicken (₹450) or savory Kimbap (₹250) for the iconic Korean street-food combo."
+    ],
+    tableOfContents: [
+      { id: "ramyeon-culture", title: "Why Koreans Are Passionate About Ramyeon" },
+      { id: "the-authentic-serve", title: "The Secret to the Perfect Springy Korean Noodle" },
+      { id: "iconic-combos", title: "Bunsik Combos: Ramyeon, Kimbap & Fried Chicken" },
+      { id: "satisfy-cravings", title: "Visit Sohee's Kitchen for Your Noodle Fix" }
+    ],
+    sections: [
+      {
+        id: "ramyeon-culture",
+        heading: "Why Koreans Are Passionate About Ramyeon",
+        paragraphs: [
+          "In South Korea, Ramyeon is vastly different from typical instant ramen elsewhere. It is a deeply nostalgic comfort food, featured in almost every K-drama as a romantic icebreaker ('Do you want to eat Ramyeon before you go?') and late-night social ritual.",
+          "Korean noodles are characterized by their signature yellow crinkly texture, intense chewiness (known as 'Ttaengttaenghada'), and deep chili-garlic seafood or beef-style broths that warm you to your core."
+        ],
+        quote: "There is no comfort quite like taking that first piping-hot slurp of spicy Korean noodles while listening to the sizzle of the kitchen."
+      },
+      {
+        id: "the-authentic-serve",
+        heading: "The Secret to the Perfect Springy Korean Noodle",
+        paragraphs: [
+          "At Sohee's Kitchen, we prepare noodles using precise thermal shocking—repeatedly lifting noodles into cool air during cooking to seal in maximum springiness and bounce.",
+          "Simmered with aged Kimchi, fresh garlic, sliced red chilies, and a gently poached egg that enriches the broth into a velvety, spicy nectar, our Ramyeon delivers the exact sensation found in Seoul's university districts."
+        ],
+        highlightBox: "Pro Eating Tip: Slurping is encouraged! In Korean noodle culture, slurping cools the hot noodles while aerating the broth, enhancing its spicy, savory flavors."
+      },
+      {
+        id: "iconic-combos",
+        heading: "Bunsik Combos: Ramyeon, Kimbap & Fried Chicken",
+        paragraphs: [
+          "In Korean casual diners ('Bunsikjeom'), locals rarely eat noodles alone. They dip fresh vegetable Kimbap (₹250) directly into the spicy noodle broth, soaking up every drop of rich seasoning.",
+          "Add our signature double-fried Yam Yam Fried Chicken (₹450) with honey-chili glaze, and you have an unforgettable feast for two in Greater Noida."
+        ]
+      },
+      {
+        id: "satisfy-cravings",
+        heading: "Visit Sohee's Kitchen for Your Noodle Fix",
+        paragraphs: [
+          "Whether you are studying at Knowledge Park, living in Ansal Golf Links, or visiting Pari Chowk, our kitchen welcomes you with hot, energizing Korean noodle bowls.",
+          "Find us at First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida, or call +91 9711722273 for reservations."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Can I adjust the spice level of Korean noodles at Sohee's Kitchen?",
+        answer: "Yes, our team can tailor the heat level from mild warmth to authentic extra-spicy according to your preference."
+      },
+      {
+        question: "Do you have vegetarian noodle options?",
+        answer: "Yes! We can prepare vegetarian Korean noodle bowls with crisp vegetables, tofu, and rich vegetable broth upon request."
+      }
+    ],
+    menuItems: STANDARD_MENU_ITEMS,
+    relatedSlugs: ["top-korean-dishes-greater-noida", "student-hangout-korean-food-knowledge-park"]
+  },
+
+  {
+    slug: "korean-dining-etiquette-table-manners",
+    title: "Korean Dining Etiquette & Table Manners: A Complete Guide for Food Lovers | Sohee's Kitchen",
+    metaDescription: "Learn authentic Korean dining etiquette, chopstick rules, and communal table manners. Master Korean food culture before your visit to Sohee's Kitchen Greater Noida.",
+    category: "Culture & Dining",
+    publishedAt: "2026-09-03",
+    readTime: "6 min read",
+    author: {
+      name: "Chef Sohee",
+      role: "Head Chef & Founder",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Traditional Korean table setting with metal chopsticks, spoons, side dishes, and sharing bowls",
+    seoKeywords: [
+      "Korean dining etiquette",
+      "Korean table manners",
+      "how to eat Korean food",
+      "Korean food culture Delhi NCR",
+      "Korean chopstick rules",
+      "Sohees Kitchen dining guide"
+    ],
+    keyTakeaways: [
+      "Korean dining is rooted in 'Jeong' (warm affection and community bonding) and deep respect for dining companions.",
+      "Never stick metal chopsticks vertically into a bowl of rice; place them horizontally across the bowl or on a rest.",
+      "Use two hands when pouring or receiving drinks from elders or respected colleagues.",
+      "Banchan (side dishes) are meant for everyone to share, fostering community around the table."
+    ],
+    tableOfContents: [
+      { id: "korean-dining-spirit", title: "The Spirit of Jeong & Communal Dining" },
+      { id: "chopstick-and-spoon", title: "Spoon vs. Chopstick: The Sujeo Tradition" },
+      { id: "five-golden-rules", title: "5 Golden Rules of Korean Table Manners" },
+      { id: "experience-korean-hospitality", title: "Experience Authentic Korean Hospitality in Greater Noida" }
+    ],
+    sections: [
+      {
+        id: "korean-dining-spirit",
+        heading: "The Spirit of Jeong & Communal Dining",
+        paragraphs: [
+          "Unlike Western dining where each person orders an isolated individual plate, Korean dining is an interconnected communal experience. A centerpiece stew (Jjigae) or sizzling meat dish is placed in the center, surrounded by an array of colorful banchan (side dishes).",
+          "This format reflects 'Jeong'—the Korean philosophy of mutual care, shared emotional bonding, and hospitality through food."
+        ],
+        quote: "Sharing a meal in Korean culture isn't just about nutrition; it is an act of welcoming another person into your inner circle."
+      },
+      {
+        id: "chopstick-and-spoon",
+        heading: "Spoon vs. Chopstick: The Sujeo Tradition",
+        paragraphs: [
+          "In Korea, cutlery is called 'Sujeo' (a portmanteau of Sutgarak for spoon and Jeotgarak for chopsticks), traditionally crafted from flat stainless steel.",
+          "Unlike other East Asian cultures where chopsticks are used for rice, Koreans use the spoon exclusively for rice and soups, reserving chopsticks for dry side dishes and grilled meats."
+        ]
+      },
+      {
+        id: "five-golden-rules",
+        heading: "5 Golden Rules of Korean Table Manners",
+        paragraphs: [
+          "1. Never stick chopsticks upright in rice: This resembles ancestral memorial incense (Jesa) and is considered unlucky. Always rest them horizontally on the table.",
+          "2. Receive and offer with both hands: Using two hands (or placing your left hand supporting your right wrist) shows sincere politeness.",
+          "3. Wait for the elders or hosts: Traditional etiquette suggests waiting for the senior diner to take the first bite before everyone begins.",
+          "4. Don't lift your rice bowl off the table: In Korean customs, the bowl stays grounded on the table while you lift food with your spoon.",
+          "5. Say 'Jal Meokgetseumnida' (I will eat well): Expressing gratitude before dining honors the chef, ingredients, and company."
+        ],
+        highlightBox: "Good to know: At Sohee's Kitchen in Greater Noida, we provide comfortable cutlery suited for beginners as well as traditional Sujeo for those seeking the full authentic experience."
+      },
+      {
+        id: "experience-korean-hospitality",
+        heading: "Experience Authentic Korean Hospitality in Greater Noida",
+        paragraphs: [
+          "Whether you are dining with Korean trade delegates, hosting family, or trying Korean dining for the first time, our friendly team is here to guide you through dishes, flavors, and pairings.",
+          "Join us at First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida. Reservations: +91 9711722273."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Can beginners use regular forks and spoons at Sohee's Kitchen?",
+        answer: "Yes, of course! While we offer authentic Korean metal chopsticks, we also provide standard forks and spoons for any guest who prefers them."
+      },
+      {
+        question: "Is it rude to ask for refills of side dishes (banchan)?",
+        answer: "Not at all! In Korean dining tradition, asking for extra banchan is a genuine compliment to the kitchen."
+      }
+    ],
+    menuItems: STANDARD_MENU_ITEMS,
+    relatedSlugs: ["korean-food-guide-first-timers", "best-korean-restaurant-greater-noida"]
+  },
+
+  {
+    slug: "vegetarian-vegan-korean-food-greater-noida",
+    title: "Vegetarian & Vegan Korean Food in Greater Noida: Delicious Plant-Based Guide | Sohee's Kitchen",
+    metaDescription: "Discover delicious vegetarian and vegan Korean food in Greater Noida! From vegetable Kimbap to spicy Tteokbokki and tofu stews at Sohee's Kitchen, Ansal Golf Links.",
+    category: "Dietary & Lifestyle",
+    publishedAt: "2026-09-08",
+    readTime: "5 min read",
+    author: {
+      name: "Chef Sohee",
+      role: "Head Chef & Founder",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Vibrant vegetarian Korean dishes with fresh vegetables, seasoned seaweed, tofu, and rice rolls in Greater Noida",
+    seoKeywords: [
+      "Vegetarian Korean food Greater Noida",
+      "Vegan Korean food Noida",
+      "Veg Tteokbokki Greater Noida",
+      "Vegetarian Kimbap Pari Chowk",
+      "Pure veg Korean dishes Delhi NCR",
+      "Healthy plant based Korean dining"
+    ],
+    keyTakeaways: [
+      "Korean cuisine has a rich centuries-old vegetarian heritage rooted in Buddhist temple cuisine (Sachal Eumsik).",
+      "Vegetarian favorites at Sohee's Kitchen: Fresh Veg Kimbap (₹250), custom Veg Tteokbokki (₹240), and wholesome seasoned tofu.",
+      "Prepared using fresh regional produce, toasted sesame oils, seaweed, and authentic fermented chili pastes.",
+      "Clear ingredient transparency and dietary customization available upon request in Greater Noida."
+    ],
+    tableOfContents: [
+      { id: "vegetarian-korean-roots", title: "The Buddhist Roots of Plant-Based Korean Cooking" },
+      { id: "top-veg-dishes", title: "Top Vegetarian & Vegan Dishes at Sohee's Kitchen" },
+      { id: "health-benefits-veg", title: "Health & Nutrition: Clean Plant-Forward Flavors" },
+      { id: "plan-veg-visit", title: "Dine Vegetarian at Sohee's Kitchen Greater Noida" }
+    ],
+    sections: [
+      {
+        id: "vegetarian-korean-roots",
+        heading: "The Buddhist Roots of Plant-Based Korean Cooking",
+        paragraphs: [
+          "There is a widespread myth that Korean food revolves solely around meat and barbecue. In reality, Korea has one of the world's most sophisticated plant-forward traditions, honed for over a millennium in Buddhist mountain monasteries.",
+          "Temple cuisine celebrates the natural flavors of seasonal wild roots, medicinal herbs, mountain greens, soybean curds (Dubu), and deeply fermented seasonings with clean, wholesome energy."
+        ],
+        quote: "Korean cuisine honors the earth: seasonal vegetables, sesame oils, and seaweed create depth of umami without needing meat."
+      },
+      {
+        id: "top-veg-dishes",
+        heading: "Top Vegetarian & Vegan Dishes at Sohee's Kitchen",
+        paragraphs: [
+          "Vegetarian diners in Greater Noida can enjoy an exquisite Korean dining journey at Sohee's Kitchen:",
+          "• Vegetable Kimbap (₹250): Seasoned sushi rice wrapped in toasted nori seaweed, stuffed with crisp cucumber, pickled radish (Danmuji), sweet braised carrots, and sesame oil.",
+          "• Vegetarian Tteokbokki (₹240): Chewy artisanal rice cakes simmered in a 100% plant-based Gochujang chili glaze with cabbage and scallions.",
+          "• Seasoned Dubu (Tofu) Delicacies: Silky or pan-seared tofu tossed in savory soy-garlic sauce.",
+          "• Assorted Veg Banchan: Crisp pickled radishes, seasoned spinach (Sigeumchi Namul), and bean sprouts (Kongnamul)."
+        ],
+        highlightBox: "Dietary Note: Let our servers know if you follow a pure vegetarian or vegan diet—we are delighted to prepare your dishes without any shrimp paste or fish sauce."
+      },
+      {
+        id: "health-benefits-veg",
+        heading: "Health & Nutrition: Clean Plant-Forward Flavors",
+        paragraphs: [
+          "Plant-based Korean meals are inherently nutrient-dense, high in dietary fiber, low in saturated fats, and rich in phytonutrients.",
+          "Fermented pastes provide natural digestive enzymes and probiotics, leaving you feeling light, clean, and energized after your meal."
+        ]
+      },
+      {
+        id: "plan-veg-visit",
+        heading: "Dine Vegetarian at Sohee's Kitchen Greater Noida",
+        paragraphs: [
+          "Located at First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida, Sohee's Kitchen welcomes plant-based food lovers from across Noida and Delhi NCR.",
+          "For custom orders or party reservations, reach us at +91 9711722273."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Can I get pure vegetarian Tteokbokki at Sohee's Kitchen?",
+        answer: "Yes! Simply request pure vegetarian preparation, and we cook your rice cakes in a 100% plant-based savory broth without fish cakes."
+      },
+      {
+        question: "Is Kimbap suitable for vegans?",
+        answer: "Our vegetable Kimbap roll is naturally vegan, loaded with crisp fresh vegetables, seasoned sushi rice, toasted seaweed, and pure sesame oil."
+      }
+    ],
+    menuItems: [
+      {
+        name: "Vegetable Kimbap",
+        description: "Fresh vegetable Korean seaweed rice roll with pickled radish and sesame oil",
+        price: "250",
+      },
+      {
+        name: "Vegetarian Tteokbokki",
+        description: "Chewy rice cakes simmered in plant-based spicy-sweet chili glaze",
+        price: "240",
+      }
+    ],
+    relatedSlugs: ["top-korean-dishes-greater-noida", "health-benefits-korean-food-kimchi"]
+  },
+
+  {
+    slug: "korean-cafe-culture-desserts-vibes-greater-noida",
+    title: "Aesthetic Korean Cafe Culture & Cozy Hangout Vibes in Greater Noida | Sohee's Kitchen",
+    metaDescription: "Discover aesthetic Korean cafe culture in Greater Noida at Sohee's Kitchen. Cozy ambiance, warm lighting, delicious Korean bites, and tranquil vibes in Ansal Golf Links.",
+    category: "Lifestyle & Dining",
+    publishedAt: "2026-09-12",
+    readTime: "4 min read",
+    author: {
+      name: "Sohee's Kitchen Team",
+      role: "Culinary Team",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Aesthetic cafe interior with warm lighting, cozy wooden decor, and tranquil dining ambiance in Greater Noida",
+    seoKeywords: [
+      "Korean cafe Greater Noida",
+      "Aesthetic cafes Pari Chowk",
+      "Cozy food spots Greater Noida",
+      "Date night restaurants Greater Noida",
+      "Instagrammable food places Noida",
+      "Quiet cafes near Knowledge Park"
+    ],
+    keyTakeaways: [
+      "Seoul's famous cafe culture blends minimalist interior design, cozy warmth, and thoughtful comfort foods.",
+      "Sohee's Kitchen in Ansal Golf Link-1 offers a peaceful sanctuary away from traffic and crowded mall food courts.",
+      "Ideal setting for romantic dinner dates, creative freelancing, and intimate conversations.",
+      "Conveniently situated right near Pari Chowk and Knowledge Park."
+    ],
+    tableOfContents: [
+      { id: "seoul-cafe-craze", title: "The Allure of Korean Cafe Culture" },
+      { id: "the-ambiance", title: "Atmosphere & Design at Sohee's Kitchen" },
+      { id: "dates-and-hangouts", title: "The Perfect Setting for Dates & Catch-Ups" },
+      { id: "how-to-visit", title: "Plan Your Visit to Sohee's Kitchen" }
+    ],
+    sections: [
+      {
+        id: "seoul-cafe-craze",
+        heading: "The Allure of Korean Cafe Culture",
+        paragraphs: [
+          "In South Korea, cafes and intimate dining nooks are an extension of the living room—peaceful, aesthetic retreats designed for unwinding, heartfelt talks, and mindful enjoyment.",
+          "At Sohee's Kitchen, we captured this exact serene spirit right here in Greater Noida, creating an inviting space where time slows down and delicious food takes center stage."
+        ]
+      },
+      {
+        id: "the-ambiance",
+        heading: "Atmosphere & Design at Sohee's Kitchen",
+        paragraphs: [
+          "Located on the First Floor of BB 28 in Ansal Golf Link-1, our space combines warm ambient illumination, clean modern lines, and authentic Korean hospitality.",
+          "Soft background tunes, comfortable seating, and photogenic presentation make every visit feel like a weekend getaway to Seoul's Yeonnam-dong neighborhood."
+        ],
+        quote: "Great food tastes even better in a space designed with warmth, calm, and genuine hospitality."
+      },
+      {
+        id: "dates-and-hangouts",
+        heading: "The Perfect Setting for Dates & Catch-Ups",
+        paragraphs: [
+          "Tired of noisy, generic fast food joints? Sohee's Kitchen offers an intimate, memorable backdrop for first dates, anniversaries, and quality catch-ups with friends.",
+          "Share steaming dumplings (₹330), crispy Yangnyeom chicken (₹450), and warm bowls of Kimchi Jjigae (₹350) while creating lasting memories."
+        ]
+      },
+      {
+        id: "how-to-visit",
+        heading: "Plan Your Visit to Sohee's Kitchen",
+        paragraphs: [
+          "We are located at First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida (UP 201315).",
+          "For romantic table reservations or quiet corner seating, call us directly at +91 9711722273."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Is Sohee's Kitchen good for a romantic date in Greater Noida?",
+        answer: "Yes! The cozy lighting, attentive service, and unique Korean sharing dishes make it one of the top hidden gems for dates near Pari Chowk."
+      },
+      {
+        question: "Can I reserve a table for special celebrations?",
+        answer: "Absolutely. Call us at +91 9711722273 and our team will be delighted to prepare a special table for your celebration."
+      }
+    ],
+    menuItems: STANDARD_MENU_ITEMS,
+    relatedSlugs: ["where-to-eat-greater-noida", "best-korean-restaurant-greater-noida"]
+  },
+
+  {
+    slug: "korean-street-food-market-guide-greater-noida",
+    title: "Seoul to Greater Noida: Ultimate Korean Street Food & Pocha Guide | Sohee's Kitchen",
+    metaDescription: "Experience Seoul's famous street food in Greater Noida! From spicy Tteokbokki and Mandu to Yangnyeom chicken burgers at Sohee's Kitchen in Ansal Golf Links.",
+    category: "Food & Recipes",
+    publishedAt: "2026-09-16",
+    readTime: "5 min read",
+    author: {
+      name: "Chef Sohee",
+      role: "Head Chef & Founder",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Night market Korean street food cart with steaming hot Tteokbokki, golden fried skewers, and dumplings",
+    seoKeywords: [
+      "Korean street food Greater Noida",
+      "Seoul pocha Greater Noida",
+      "Korean snacks Pari Chowk",
+      "Tteokbokki and Mandu Greater Noida",
+      "Authentic Korean street snacks",
+      "Asian street food Delhi NCR"
+    ],
+    keyTakeaways: [
+      "Korean street food (Bunsik / Pocha) is a global culinary sensation famous for bold red chili glazes and satisfying textures.",
+      "Enjoy authentic Seoul street favorites in Greater Noida: Tteokbokki (₹240), Mandu (₹330), and Kimbap (₹250).",
+      "All snacks prepared fresh to order using traditional street vendor techniques and authentic spices.",
+      "Quick dine-in or convenient takeout available right at Ansal Golf Link-1."
+    ],
+    tableOfContents: [
+      { id: "pocha-phenomenon", title: "The Magic of Korea's Street Food & Pojangmacha Culture" },
+      { id: "street-food-stars", title: "The Holy Trinity of Korean Street Food" },
+      { id: "fusion-favorites", title: "Crispy Korean Chicken Burgers & Finger Foods" },
+      { id: "taste-the-streets", title: "Taste Authentic Korean Street Food in Greater Noida" }
+    ],
+    sections: [
+      {
+        id: "pocha-phenomenon",
+        heading: "The Magic of Korea's Street Food & Pojangmacha Culture",
+        paragraphs: [
+          "Anyone who has walked the neon-lit alleys of Seoul's Myeongdong or Hongdae remembers the irresistible aromas rising from 'Pojangmacha' (tented street stalls).",
+          "Crowds gather around large simmering pans of fiery crimson Tteokbokki, giant steamers of plump dumplings, and sizzling fryers. At Sohee's Kitchen in Greater Noida, we bring those exact street-cart sensations to life with pristine hygiene and authentic flavor."
+        ],
+        quote: "Street food is the true heartbeat of Korean cuisine—bold, spicy, unpretentious, and unforgettable."
+      },
+      {
+        id: "street-food-stars",
+        heading: "The Holy Trinity of Korean Street Food",
+        paragraphs: [
+          "Korean street food enthusiasts live by three golden staples:",
+          "1. Tteokbokki (₹240): Silky cylindrical rice cakes swimming in a bubbling, spicy-sweet glaze made from fermented red pepper paste and aromatics.",
+          "2. Mandu (₹330): Steamed or pan-fried chicken dumplings bursting with juicy chicken mince, scallions, and ginger.",
+          "3. Kimbap (₹250): Portable seasoned rice rolls packed with colorful, crunchy pickled vegetables and wrapped in crisp toasted nori."
+        ],
+        highlightBox: "Street Vendor Secret: Dip your crispy fried Mandu directly into the leftover spicy Tteokbokki sauce—this is how Seoul locals eat their street snacks!"
+      },
+      {
+        id: "fusion-favorites",
+        heading: "Crispy Korean Chicken Burgers & Finger Foods",
+        paragraphs: [
+          "Looking for modern Korean comfort food? Try our Yam Yam Chicken Burger (₹390)—featuring a crunchy double-fried chicken fillet glazed in sweet-garlic Yangnyeom sauce on a soft toasted bun.",
+          "It's the ultimate fusion treat for food lovers seeking high crunch and bold Asian flavor."
+        ]
+      },
+      {
+        id: "taste-the-streets",
+        heading: "Taste Authentic Korean Street Food in Greater Noida",
+        paragraphs: [
+          "Satisfy your K-drama street food cravings today at Sohee's Kitchen, located at First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida.",
+          "Order takeaway or reserve your table by calling +91 9711722273."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Is Korean street food very spicy?",
+        answer: "Dishes like Tteokbokki have a noticeable, spicy kick balanced by natural sweetness. Dishes like Kimbap and steamed Mandu are mild and savory."
+      },
+      {
+        question: "Can I grab street snacks for fast takeaway?",
+        answer: "Yes! Call us at +91 9711722273 for quick street food takeout packed hot and ready for pickup."
+      }
+    ],
+    menuItems: STANDARD_MENU_ITEMS,
+    relatedSlugs: ["student-hangout-korean-food-knowledge-park", "korean-fried-chicken-greater-noida"]
   }
 ];
 
