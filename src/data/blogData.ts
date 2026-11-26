@@ -1421,6 +1421,463 @@ export const blogPosts: BlogPost[] = [
     ],
     menuItems: STANDARD_MENU_ITEMS,
     relatedSlugs: ["student-hangout-korean-food-knowledge-park", "korean-fried-chicken-greater-noida"]
+  },
+
+  {
+    slug: "korean-food-delivery-takeaway-greater-noida",
+    title: "Authentic Korean Food Delivery & Takeaway in Greater Noida | Sohee's Kitchen",
+    metaDescription: "Order piping-hot authentic Korean food delivery and takeaway in Greater Noida! Enjoy crispy fried chicken, spicy Tteokbokki, and kimchi stews at home or office.",
+    category: "Local Dining",
+    publishedAt: "2026-09-20",
+    readTime: "4 min read",
+    author: {
+      name: "Sohee's Kitchen Team",
+      role: "Culinary Team",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Freshly packed hot Korean food takeaway boxes with fried chicken, rice rolls, and side dishes in Greater Noida",
+    seoKeywords: [
+      "Korean food delivery Greater Noida",
+      "Order Korean food online Greater Noida",
+      "Korean takeaway Pari Chowk",
+      "Korean food delivery Alpha Beta Gamma Greater Noida",
+      "Kimchi delivery Noida",
+      "Best food delivery Knowledge Park"
+    ],
+    keyTakeaways: [
+      "Piping-hot authentic Korean home cooking delivered directly to your doorstep in Greater Noida.",
+      "Serves Ansal Golf Links, Pari Chowk, Knowledge Park (colleges & hostels), Jaypee Greens, and Alpha/Beta/Gamma sectors.",
+      "Custom leak-proof, heat-retentive packaging designed specifically for crispy chicken, hot stews, and fresh Kimbap.",
+      "Call or WhatsApp +91 9711722273 for direct takeaway orders and quick pickup."
+    ],
+    tableOfContents: [
+      { id: "korean-craving-home", title: "Craving Authentic Korean at Home or Dorm?" },
+      { id: "popular-takeaway-items", title: "Top Delivery & Takeaway Dishes" },
+      { id: "delivery-zones", title: "Delivery Coverage Across Greater Noida" },
+      { id: "how-to-order-delivery", title: "How to Place Your Takeaway Order" }
+    ],
+    sections: [
+      {
+        id: "korean-craving-home",
+        heading: "Craving Authentic Korean at Home or Dorm?",
+        paragraphs: [
+          "Whether you are having a relaxed weekend K-drama movie night, working late at your corporate office, or studying for exams in your Knowledge Park hostel, nothing satisfies hunger like piping-hot Korean comfort food.",
+          "At Sohee's Kitchen, we ensure that our food travels just as deliciously as it tastes inside our restaurant, using specialized containers that preserve crunch, heat, and freshness."
+        ],
+        quote: "You don't need to step out into traffic to savor authentic Seoul flavors—we pack the warmth and crunch right to your door."
+      },
+      {
+        id: "popular-takeaway-items",
+        heading: "Top Delivery & Takeaway Dishes",
+        paragraphs: [
+          "Our takeaway menu highlights customer favorites that retain their texture during transit:",
+          "• Yam Yam Fried Chicken (₹450): Double-fried boneless chicken in ventilated boxes so the crust stays crunchy, paired with sticky Yangnyeom sauce.",
+          "• Fresh Kimbap (₹250): Neatly wrapped vegetable rice rolls sliced into easy, mess-free bite-sized pieces.",
+          "• Tteokbokki (₹240): Chewy rice cakes packed with rich, spicy-sweet chili sauce sealed tightly against leaks.",
+          "• Kimchi Jjigae (₹350): Insulated container keeping your rich, probiotic kimchi stew steaming hot."
+        ],
+        highlightBox: "Packaging Guarantee: We separate wet sauces and crispy components whenever needed so your chicken stays shatteringly crisp!"
+      },
+      {
+        id: "delivery-zones",
+        heading: "Delivery Coverage Across Greater Noida",
+        paragraphs: [
+          "We cater to key Greater Noida residential and academic sectors:",
+          "• Ansal Golf Link-1 & 2 (Immediate neighbor pickup & fast delivery)",
+          "• Pari Chowk & Knowledge Park 1, 2, 3 (Universities, hostels, student housing)",
+          "• Jaypee Greens, Godrej Golf Links, Swarna Nagari",
+          "• Sector Alpha 1 & 2, Beta 1 & 2, Gamma, and Delta"
+        ]
+      },
+      {
+        id: "how-to-order-delivery",
+        heading: "How to Place Your Takeaway Order",
+        paragraphs: [
+          "Simply give us a call at +91 9711722273. Tell us your favorite dishes, and our kitchen team will have your order freshly cooked and packed for instant collection or dispatch.",
+          "Pickup location: First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How long does takeaway preparation take at Sohee's Kitchen?",
+        answer: "Most orders are freshly prepared and ready for pickup within 15 to 25 minutes. Call +91 9711722273 ahead of time for zero wait."
+      },
+      {
+        question: "Do you deliver to student hostels in Knowledge Park?",
+        answer: "Yes, we regularly cater to students across Knowledge Park hostels and dorms near Pari Chowk."
+      }
+    ],
+    menuItems: STANDARD_MENU_ITEMS,
+    relatedSlugs: ["student-hangout-korean-food-knowledge-park", "korean-fried-chicken-greater-noida"]
+  },
+
+  {
+    slug: "korean-fried-chicken-vs-regular-fried-chicken",
+    title: "Korean Fried Chicken vs Regular Fried Chicken: Why KFC Wins | Sohee's Kitchen",
+    metaDescription: "Discover why Korean Fried Chicken (KFC) is crunchier, lighter, and more flavorful than American fried chicken. The secrets of double frying at Sohee's Kitchen Greater Noida.",
+    category: "Food & Recipes",
+    publishedAt: "2026-09-24",
+    readTime: "5 min read",
+    author: {
+      name: "Chef Sohee",
+      role: "Head Chef & Founder",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Ultra-crispy Korean fried chicken coated in glossy sweet and spicy red Yangnyeom sauce",
+    seoKeywords: [
+      "Korean fried chicken vs American",
+      "Why Korean fried chicken is better",
+      "Crispy Yangnyeom chicken Greater Noida",
+      "Secret to Korean fried chicken",
+      "Best chicken wings Greater Noida",
+      "Double fried chicken technique"
+    ],
+    keyTakeaways: [
+      "Korean Fried Chicken uses an ultra-thin cornstarch/potato crust instead of thick, doughy wheat flour batter.",
+      "The two-stage double frying process completely renders out subcutaneous fat, creating paper-thin glass-like crunch.",
+      "Coated in handcrafted sauces like Yangnyeom (garlic, soy, honey, gochujang) without ever getting soggy.",
+      "Experience authentic Yam Yam Fried Chicken (₹450) at Sohee's Kitchen in Ansal Golf Link-1, Greater Noida."
+    ],
+    tableOfContents: [
+      { id: "the-crunch-showdown", title: "The Great Fried Chicken Showdown" },
+      { id: "secret-double-fry", title: "The Science of the Double-Fry Method" },
+      { id: "the-sauce-mastery", title: "Sauce Mastery: The Magic of Yangnyeom" },
+      { id: "taste-real-kfc", title: "Taste the Real Thing in Greater Noida" }
+    ],
+    sections: [
+      {
+        id: "the-crunch-showdown",
+        heading: "The Great Fried Chicken Showdown",
+        paragraphs: [
+          "Fried chicken exists across every continent, but South Korea revolutionized it into a global culinary art form. Diners everywhere are abandoning thick, greasy fast-food chicken in favor of Korean Fried Chicken ('Chikin').",
+          "What makes Korean fried chicken distinctly superior? It comes down to crust thickness, fat rendering, and glaze chemistry."
+        ],
+        quote: "Traditional fried chicken has a heavy crust that gets soggy in minutes. Korean fried chicken has an eggshell-thin crust that stays crunchy for hours."
+      },
+      {
+        id: "secret-double-fry",
+        heading: "The Science of the Double-Fry Method",
+        paragraphs: [
+          "Standard American fried chicken is dipped in buttermilk, coated in seasoned all-purpose flour, and fried once at high heat. This often creates a heavy, bready crust that absorbs excess cooking oil.",
+          "Korean fried chicken utilizes a light potato and cornstarch dusting. It is fried first at moderate temperature to cook the tender meat and render out subcutaneous fat, rested for several minutes to allow moisture to escape, and flash-fried a second time at high temperature.",
+          "This second fry transforms the remaining starch matrix into a shatteringly crisp, paper-thin shell that never feels oily."
+        ],
+        highlightBox: "Did you know? In South Korea, there are over 87,000 fried chicken establishments—more than all McDonald's outlets worldwide combined!"
+      },
+      {
+        id: "the-sauce-mastery",
+        heading: "Sauce Mastery: The Magic of Yangnyeom",
+        paragraphs: [
+          "After frying, standard chicken is served dry with dipping pots. In Korea, chicken is wok-tossed in a hot, sticky glaze called Yangnyeom—blending fermented Gochujang, garlic, ginger, soy sauce, and honey.",
+          "Because the crust is completely rendered and non-porous, the glaze clings intimately to every crevice without softening the crunch underneath."
+        ]
+      },
+      {
+        id: "taste-real-kfc",
+        heading: "Taste the Real Thing in Greater Noida",
+        paragraphs: [
+          "At Sohee's Kitchen, our Yam Yam Fried Chicken (₹450) is prepared with strict adherence to this double-fry tradition using 100% tender boneless chicken.",
+          "Visit us at First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida, or call +91 9711722273 for fresh orders."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Is Korean fried chicken boneless at Sohee's Kitchen?",
+        answer: "Yes, our signature Yam Yam Fried Chicken is prepared using juicy, tender boneless chicken pieces for easy, mess-free dining."
+      },
+      {
+        question: "What is the best side to eat with Korean fried chicken?",
+        answer: "Pickled white radish (Danmuji) and spicy Tteokbokki (₹240) are the classic Korean pairings that cleanse the palate and enhance the crunch."
+      }
+    ],
+    menuItems: [
+      {
+        name: "Yam Yam Fried Chicken",
+        description: "Boneless double-fried chicken stir-fried with special Yangnyeom garlic-honey sauce",
+        price: "450",
+      },
+      {
+        name: "Yam Yam Chicken Burger",
+        description: "Crispy fried chicken patty with our special Yangnyeom glaze on soft bun",
+        price: "390",
+      }
+    ],
+    relatedSlugs: ["korean-fried-chicken-greater-noida", "top-korean-dishes-greater-noida"]
+  },
+
+  {
+    slug: "corporate-catering-events-korean-food-greater-noida",
+    title: "Corporate Event Catering & Group Dining: Korean Food in Greater Noida | Sohee's Kitchen",
+    metaDescription: "Elevate your corporate events, meetings, and trade shows with authentic Korean catering in Greater Noida. Bento boxes, team lunches, and event dining near India Expo Mart.",
+    category: "Events & Corporate",
+    publishedAt: "2026-09-28",
+    readTime: "5 min read",
+    author: {
+      name: "Sohee's Kitchen Team",
+      role: "Culinary Team",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1555244162-803834f70033?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Premium corporate event catering with Korean lunch boxes and sharing platters in Greater Noida",
+    seoKeywords: [
+      "Corporate catering Greater Noida",
+      "Office party food Greater Noida",
+      "India Expo Mart event catering",
+      "Korean group lunch Greater Noida",
+      "Corporate dinner Pari Chowk",
+      "Exhibition food Greater Noida"
+    ],
+    keyTakeaways: [
+      "Sophisticated Korean catering solutions for trade exhibitions, corporate conferences, and company milestones in Greater Noida.",
+      "Customizable Korean Dosirak (bento meal boxes) packed with chicken, savory rice rolls, and traditional banchan.",
+      "Conveniently positioned near India Expo Mart and Knowledge Park tech parks.",
+      "Dedicated corporate booking assistance, GST invoicing, and flexible delivery schedules."
+    ],
+    tableOfContents: [
+      { id: "corporate-dining-need", title: "Move Beyond Predictable Corporate Buffets" },
+      { id: "dosirak-boxes", title: "The Elegance of Korean Dosirak (Meal Boxes)" },
+      { id: "event-partnerships", title: "Catering for India Expo Mart Exhibitors & Teams" },
+      { id: "book-corporate", title: "How to Book Catering with Sohee's Kitchen" }
+    ],
+    sections: [
+      {
+        id: "corporate-dining-need",
+        heading: "Move Beyond Predictable Corporate Buffets",
+        paragraphs: [
+          "Corporate event organizers and HR managers in Greater Noida know that memorable food directly influences the success of business gatherings and team satisfaction. Typical catering often feels repetitive and heavy.",
+          "Authentic Korean cuisine brings vibrant energy, colorful visual elegance, and refreshing umami balance that delights both local teams and international executives."
+        ]
+      },
+      {
+        id: "dosirak-boxes",
+        heading: "The Elegance of Korean Dosirak (Meal Boxes)",
+        paragraphs: [
+          "In Korea, 'Dosirak' represents the ultimate balanced meal box. Every box features a harmonious distribution of protein, carbohydrates, and fermented vegetables.",
+          "We offer customized event boxes featuring crispy Yam Yam Chicken, fresh vegetable Kimbap, Mandu dumplings, rice, and crisp kimchi, neatly divided in eco-friendly, premium compartments."
+        ],
+        highlightBox: "Stress-Free Logistics: Each meal box is labeled clearly with vegetarian and non-vegetarian indicators for swift, effortless distribution during business lunches."
+      },
+      {
+        id: "event-partnerships",
+        heading: "Catering for India Expo Mart Exhibitors & Teams",
+        paragraphs: [
+          "With major international summits, trade expos, and industrial conventions taking place at India Expo Mart throughout the year, our kitchen in Ansal Golf Link-1 is primed to serve exhibitors and delegations.",
+          "We also partner closely with Sandane Homes to offer combined corporate stay-and-dine packages for overseas visitors.",
+          "Enjoy seamless group reservations or order bulk hot meal drops delivered directly to your exhibition booth or hotel suite."
+        ]
+      },
+      {
+        id: "book-corporate",
+        heading: "How to Book Catering with Sohee's Kitchen",
+        paragraphs: [
+          "We cater to groups of 10 to 100+ guests. To discuss your menu requirements, dietary preferences, and delivery schedules, contact our catering manager directly.",
+          "• Phone: +91 9711722273",
+          "• Email: soheeskitchen@gmail.com",
+          "• Address: First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida"
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How far in advance should we book corporate catering?",
+        answer: "For meal box orders of 15+ guests, we recommend booking 24 to 48 hours in advance to guarantee fresh ingredient sourcing and punctual delivery."
+      },
+      {
+        question: "Do you provide official GST invoices for corporate reimbursements?",
+        answer: "Yes, we provide complete tax invoices with GST details for corporate expense processing."
+      }
+    ],
+    menuItems: STANDARD_MENU_ITEMS,
+    relatedSlugs: ["korean-food-near-india-expo-mart", "where-to-eat-greater-noida"]
+  },
+
+  {
+    slug: "k-drama-foods-explained-what-are-they-eating",
+    title: "Every K-Drama Food Explained: What Are They Actually Eating? | Sohee's Kitchen",
+    metaDescription: "Ever wondered what Korean dishes your favorite K-drama actors are eating? From Tteokbokki to Jjigae and Chimaek, decode the food scenes at Sohee's Kitchen Greater Noida.",
+    category: "Culture & Dining",
+    publishedAt: "2026-10-02",
+    readTime: "6 min read",
+    author: {
+      name: "Chef Sohee",
+      role: "Head Chef & Founder",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Vibrant Korean dinner table spread with dishes popularized in beloved Korean television dramas",
+    seoKeywords: [
+      "K drama foods explained",
+      "What do they eat in K dramas",
+      "Korean food in movies",
+      "Tteokbokki K drama meaning",
+      "Korean food guide Greater Noida",
+      "Crash Landing on You food"
+    ],
+    keyTakeaways: [
+      "K-dramas use food as a storytelling metaphor for romance, healing, social status, and reconciliation.",
+      "Tteokbokki represents comfort and unpretentious childhood nostalgia during emotional scenes.",
+      "Chimaek (fried chicken and beer) is the universal symbol of camaraderie, unwinding, and romance.",
+      "Taste every single iconic K-drama dish right here in Greater Noida at Sohee's Kitchen."
+    ],
+    tableOfContents: [
+      { id: "kdrama-food-symbolism", title: "Why Food Is the Real Star of Korean Dramas" },
+      { id: "five-kdrama-dishes", title: "5 Iconic Dishes Seen in Every Popular K-Drama" },
+      { id: "the-comfort-scenes", title: "Why Characters Eat Spicy Food When Heartbroken" },
+      { id: "recreate-scenes", title: "Live Your K-Drama Food Fantasy at Sohee's Kitchen" }
+    ],
+    sections: [
+      {
+        id: "kdrama-food-symbolism",
+        heading: "Why Food Is the Real Star of Korean Dramas",
+        paragraphs: [
+          "Watch any Korean drama—from 'Crash Landing on You' and 'Guardian: The Lonely and Great God' to 'Extraordinary Attorney Woo'—and you will notice food is never just an afterthought. Characters bond over street-stall food, share emotional conversations over bubbling stews, and find comfort in meals.",
+          "In Korean society, asking 'Bap meogeosseoyo?' (Have you eaten?) is the equivalent of asking 'How are you?'. Food is care, love, and community."
+        ],
+        quote: "In Korean dramas, sharing a meal marks the precise moment strangers become lifelong companions."
+      },
+      {
+        id: "five-kdrama-dishes",
+        heading: "5 Iconic Dishes Seen in Every Popular K-Drama",
+        paragraphs: [
+          "Here are the meals you see on screen, decoded:",
+          "1. Tteokbokki: The fiery red rice cakes eaten by main leads at street stalls when feeling overwhelmed or celebrating small victories.",
+          "2. Chimaek (Fried Chicken): The classic Friday night unwind—crispy golden chicken glazed in sweet Yangnyeom sauce.",
+          "3. Kimbap: The beloved comfort roll featured centrally in 'Extraordinary Attorney Woo', beloved for its neat circular slices and balanced fillings.",
+          "4. Kimchi Jjigae: The steamy red stew mothers and grandmothers serve when a character needs emotional healing.",
+          "5. Mandu: Savory dumplings shared between family members, representing warmth and harmony."
+        ]
+      },
+      {
+        id: "the-comfort-scenes",
+        heading: "Why Characters Eat Spicy Food When Heartbroken",
+        paragraphs: [
+          "Notice how characters immediately order fiery spicy Tteokbokki or hot stews after a breakup or tough work day? In Korea, this concept is called 'Maeun Eumsik-euro Seuteureseu Pulgi' (releasing stress through spicy food).",
+          "The endorphin rush from spicy capsaicin combined with savory garlic clears the mind and revitalizes the spirit."
+        ],
+        highlightBox: "Fun Fact: The term 'Chimaek' is a portmanteau of 'Chikin' (chicken) and 'Maekju' (beer), and even inspired official summer festivals in South Korea!"
+      },
+      {
+        id: "recreate-scenes",
+        heading: "Live Your K-Drama Food Fantasy at Sohee's Kitchen",
+        paragraphs: [
+          "You don't need a flight to Seoul to taste what your favorite characters are enjoying. Step into Sohee's Kitchen in Greater Noida and order the authentic versions of every dish.",
+          "Visit us at First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida, or call +91 9711722273."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Can I try all these K-drama dishes at Sohee's Kitchen?",
+        answer: "Yes! Our menu features Tteokbokki (₹240), Yam Yam Fried Chicken (₹450), Kimbap (₹250), Kimchi Jjigae (₹350), and Mandu (₹330) prepared according to authentic Korean recipes."
+      },
+      {
+        question: "Is Sohee's Kitchen a good place for K-pop and K-drama fans to meet?",
+        answer: "Yes, our restaurant is a favorite gathering spot for Korean pop culture enthusiasts across Greater Noida and Delhi NCR."
+      }
+    ],
+    menuItems: STANDARD_MENU_ITEMS,
+    relatedSlugs: ["student-hangout-korean-food-knowledge-park", "top-korean-dishes-greater-noida"]
+  },
+
+  {
+    slug: "korean-pork-dishes-jeyuk-bokkeum-greater-noida",
+    title: "Authentic Korean Pork Dishes in Greater Noida: Sizzling Jeyuk Bokkeum Guide | Sohee's Kitchen",
+    metaDescription: "Savor authentic Korean pork dishes in Greater Noida! Experience sizzling spicy Jeyuk Bokkeum stir-fried in Gochujang and garlic at Sohee's Kitchen Ansal Golf Links.",
+    category: "Culinary Guide",
+    publishedAt: "2026-10-06",
+    readTime: "5 min read",
+    author: {
+      name: "Chef Sohee",
+      role: "Head Chef & Founder",
+      avatar: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80",
+    },
+    coverImage: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&auto=format&fit=crop&q=80",
+    coverImageAlt: "Sizzling spicy Korean Jeyuk Bokkeum pork stir-fry served with sesame seeds and fresh scallions",
+    seoKeywords: [
+      "Korean pork dishes Greater Noida",
+      "Jeyuk Bokkeum Noida",
+      "Spicy pork belly Greater Noida",
+      "Authentic Korean pork Delhi NCR",
+      "Non veg Korean restaurant Greater Noida",
+      "Korean BBQ pork Pari Chowk"
+    ],
+    keyTakeaways: [
+      "Pork holds an essential place in authentic Korean gastronomy, celebrated for its rich marbling and tenderness.",
+      "Featured specialty at Sohee's Kitchen: Jeyuk Bokkeum (₹450)—tender pork marinated in spicy Gochujang and flash wok-seared.",
+      "Perfect balance of sweet, savory, and smoky flavors garnished with toasted sesame and green scallions.",
+      "Enjoyed with steaming white rice or wrapped inside crisp lettuce leaves with garlic and ssamjang."
+    ],
+    tableOfContents: [
+      { id: "pork-in-korean-cuisine", title: "The Heritage of Pork in Korean Culinary Tradition" },
+      { id: "what-is-jeyuk-bokkeum", title: "What Makes Jeyuk Bokkeum So Irresistible?" },
+      { id: "how-to-enjoy-pork", title: "The Best Ways to Enjoy Sizzling Korean Pork" },
+      { id: "dine-at-sohees", title: "Experience Sizzling Korean Pork in Greater Noida" }
+    ],
+    sections: [
+      {
+        id: "pork-in-korean-cuisine",
+        heading: "The Heritage of Pork in Korean Culinary Tradition",
+        paragraphs: [
+          "While chicken and beef are popular worldwide, pork is indisputably Korea's everyday favorite meat. From famous Samgyeopsal (pork belly) grill houses to neighborhood stir-fry diners, pork is prized for its succulent texture, rich marbling, and ability to absorb deep marinades.",
+          "For pork lovers in Delhi NCR seeking the genuine Seoul preparation, finding restaurants that do justice to traditional Korean pork recipes has long been a challenge—until now."
+        ]
+      },
+      {
+        id: "what-is-jeyuk-bokkeum",
+        heading: "What Makes Jeyuk Bokkeum So Irresistible?",
+        paragraphs: [
+          "Jeyuk Bokkeum (literally 'stir-fried pork') is one of Korea's most iconic home-style dishes. Thinly sliced pork is marinated in a complex red sauce crafted from aged Gochujang (fermented chili paste), Gochugaru chili flakes, crushed garlic, grated ginger, soy sauce, and mirin.",
+          "When cooked over roaring high heat in a smoking wok, the edges caramelize, locking in moisture and delivering a deep, smoky barbecue aroma ('Bul-mat').",
+          "At Sohee's Kitchen, we prepare Jeyuk Bokkeum (₹450) with tender pork slices, sweet onions, and crisp cabbage for an intoxicating flavor profile."
+        ],
+        quote: "Jeyuk Bokkeum is the ultimate rice thief ('Bap-doduk')—the spicy savory sauce is so delicious you will finish two bowls of rice without noticing."
+      },
+      {
+        id: "how-to-enjoy-pork",
+        heading: "The Best Ways to Enjoy Sizzling Korean Pork",
+        paragraphs: [
+          "To experience Jeyuk Bokkeum like a Seoul native:",
+          "1. Over Rice (Deopbap style): Spoon the steaming pork and glistening red sauce directly over hot rice.",
+          "2. As a Ssam Wrap: Wrap tender pork inside a crisp lettuce leaf with a dab of house-made Kimchi and garlic for a refreshing, crunchy bite.",
+          "3. Paired with a Stew: Contrast the fiery stir-fry with a soothing bowl of warm soup for balanced dining."
+        ]
+      },
+      {
+        id: "dine-at-sohees",
+        heading: "Experience Sizzling Korean Pork in Greater Noida",
+        paragraphs: [
+          "Join us at Sohee's Kitchen to savor authentic Jeyuk Bokkeum cooked by experienced hands.",
+          "Location: First Floor, BB 28, Block B, Ansal Golf Link-1, Greater Noida (UP 201315). Call +91 9711722273 for table reservations and takeaway orders."
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How spicy is Jeyuk Bokkeum at Sohee's Kitchen?",
+        answer: "Our Jeyuk Bokkeum has an authentic, robust chili kick that warms the palate without overpowering the savory tenderness of the meat."
+      },
+      {
+        question: "Can I order Jeyuk Bokkeum for home delivery or takeaway?",
+        answer: "Yes, call +91 9711722273 to order Jeyuk Bokkeum freshly packed hot with complimentary rice."
+      }
+    ],
+    menuItems: [
+      {
+        name: "Jeyuk Bokkeum",
+        description: "Tender pork stir-fried in rich, spicy Korean chili sauce with fresh vegetables",
+        price: "450",
+      },
+      {
+        name: "Yam Yam Fried Chicken",
+        description: "Boneless fried chicken stir-fried with special Yangnyeom sauce",
+        price: "450",
+      }
+    ],
+    relatedSlugs: ["korean-bbq-greater-noida", "top-korean-dishes-greater-noida"]
   }
 ];
 
